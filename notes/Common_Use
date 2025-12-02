@@ -1,0 +1,14 @@
+1. Bypass
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+2. Activate virtual environment
+myvenv\Scripts\activate
+
+3. Change directory 
+cd py
+
+4. Run file 
+py file_name 
+
+5. Reverse 1 file directory 
+cd ..
