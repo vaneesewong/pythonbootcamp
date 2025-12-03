@@ -12,3 +12,9 @@ py file_name
 
 5. Reverse 1 file directory 
 cd ..
+
+6. Push to Github Repository 
+git add .
+git commit -m "your comment"
+git push
+
